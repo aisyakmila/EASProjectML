@@ -1,0 +1,5 @@
+streamlit
+numpy
+pillow
+tflite-runtime
+scikit-learn
