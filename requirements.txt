@@ -1,5 +1,5 @@
 streamlit
 numpy
 pillow
-tflite-runtime
+tensorflow
 scikit-learn
